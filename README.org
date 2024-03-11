@@ -1,1 +1,12 @@
-*** Hi there 👋
+** gvxvik [φ]
+
+*** tech
++ c/c++
++ bash
++ nodejs
++ react
+
+*** social
++ [[twitter.com][twitter]]
++ [[linkedin.com/in/gvxvik][linkedin]]
++ [[reddit.com/gvxvik][reddit]]
